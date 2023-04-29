@@ -86,7 +86,8 @@ if(temp > 0 && temp < 30 && suncano){
     console.log("Vrijeme je loše")
 }
 
-                                                                                /*
+                                                                                /*Ovaj komentar je da se ne pokolju s donjim kodom gdje se koristi 
+                                                                                  window.prompt
 //Šesta vježba while(dok) loop (petlja)
 let korisnickoIme = "";
 
