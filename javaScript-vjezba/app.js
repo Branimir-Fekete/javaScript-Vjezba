@@ -70,7 +70,7 @@ switch(ocijena){
 }
 
 
-//Peta vježba && ||
+//Peta vježba && || (i, ili)
 let temp = 1;
 let suncano = false;
 
