@@ -39,7 +39,7 @@
      let height;
 
      width = window.prompt("Unesite širinu");
-     height = window.prompt("Unesite širinu");
+     height = window.prompt("Unesite visinu");
 
      area = getArea(width, height);
 
