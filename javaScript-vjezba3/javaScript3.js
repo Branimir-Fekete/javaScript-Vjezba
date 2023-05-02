@@ -101,11 +101,11 @@ function sum(x, y){
 
 function displayConsole(output){
     console.log(output);
-}
+}//Ispisuje u konzoli
 
 function displayDOM(output){
     document.getElementById("myLabel").innerHTML = output;
-}
+}//Ispisuje u HTML-u
 
 //Vježba 9. array for each()
 let students = ["ivo", "ana", "luka"];
